@@ -1,8 +1,6 @@
 var movieData = [
   {
-    title: 'Back to the Future',
-    year: 1985,
-    rating: 10
+   no
   },
   {
     title: 'Primer',
